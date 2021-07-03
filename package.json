@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "bin": {
-    "same-name-node-bin-for-bbb": "bbb.js"
+    "same-name-node-bin-for-bbb": "bin/bbb.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
