@@ -1,3 +1,3 @@
-import { bbb } from "../src";
+const bbb = require("../src/index").bbb;
 
 bbb();
