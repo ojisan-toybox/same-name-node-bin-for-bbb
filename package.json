@@ -1,0 +1,22 @@
+{
+  "name": "same-name-node-bin-for-bbb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "bin": {
+    "same-name-node-bin-for-bbb": "bbb.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/same-name-node-bin-for-bbb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/same-name-node-bin-for-bbb/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/same-name-node-bin-for-bbb#readme"
+}
